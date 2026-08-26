@@ -6,3 +6,4 @@ When i was at school, in physics class, i was learning kinematics(the area in ph
 
 ## How it works!
 You use numbers to choose the equation you want to use, then you put your values, if it asks for an angle, you can either put the raw number or the number with the symbol (ex: raw number = 30, number with symbol 30°), it only supports the one that on the tab (sin, cos and tan of 30, 45 and 60).
+<img width="1080" height="547" alt="1000226909" src="https://github.com/user-attachments/assets/7671f5ea-c7c5-4dbe-9582-339333f424ba" />
